@@ -30,9 +30,9 @@ These instructions will get you a copy of the project up and running on your loc
    ```sh
    git clone https://github.com/maan-2605/food-express.git
 
-Open the project in Android Studio
-Connect Firebase with the Android Studio project
-Run the project on the emulator or real device
+2. Open the project in Android Studio
+3. Connect Firebase with the Android Studio project
+4. Run the project on the emulator or real device
 ### 🤝 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -41,6 +41,8 @@ Create your Feature Branch (git checkout -b feature/AmazingFeature)
 Commit your Changes (git commit -m 'Add some AmazingFeature')  
 Push to the Branch (git push origin feature/AmazingFeature)  
 Open a Pull Request  
+### Demo
+Download Apk:   [Link](https://portfolio-maan.netlify.app/assets/Food%20Express.apk)
 
 ### 📫 Contact
 Maan Patel - [LinkedIn](https://www.linkedin.com/in/maan-patel-9ba0322ab) - [Email](mailto:maanpatel386@gmail.com)
